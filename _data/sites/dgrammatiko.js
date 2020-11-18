@@ -15,5 +15,10 @@ module.exports = {
 	},
 	urls: [
 		"https://dgrammatiko.online/",
+		"https://formally-valid.info/",
+		"https://dgrammatiko.github.io/on-a-diet/",
+		"https://joomla-needed-fixes.netlify.app",
+		"https://joomla-needed-fixes.netlify.app/data/",
+		"https://sloth-theme.site",
 	]
 };
