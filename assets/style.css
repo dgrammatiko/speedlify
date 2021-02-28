@@ -115,9 +115,7 @@ abbr {
 .leaderboard-trophies {
 	white-space: nowrap;
 }
-.leaderboard-url {
-	width: 100%;
-}
+
 .leaderboard-redirect-error,
 .leaderboard-redirect-warn {
 	text-transform: uppercase;
