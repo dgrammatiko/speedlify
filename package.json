@@ -39,7 +39,7 @@
     "fast-glob": "^3.2.4",
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0",
-    "performance-leaderboard": "^5.0.0",
+    "performance-leaderboard": "^11.0.0",
     "short-hash": "^1.0.0",
     "speedlify-score": "^2.0.0"
   }
