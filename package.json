@@ -41,6 +41,6 @@
     "node-fetch": "^2.6.0",
     "performance-leaderboard": "^5.0.0",
     "short-hash": "^1.0.0",
-    "speedlify-score": "^2.0.0"
+    "speedlify-score": "^4.0.0"
   }
 }
